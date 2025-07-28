@@ -23,7 +23,7 @@ I enjoy experimenting with gameplay mechanics, graphics, and learning new techno
 - make some games
   
  ## Screenshots
-Here are some screenshots from my projects:
+Here are some screenshots from my projects:  
 ![leapIntheShadow](./leapInTheShadow.gif)
 ##
 [![GitHub Streak](https://github-readme-streak-stats-six-wheat.vercel.app?user=maniulka209&theme=radical)](https://git.io/streak-stats)
