@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=48193B&width=435&lines=beginner+game+developer+)](https://git.io/typing-svg)  
 ### About me 
 Hi! I'm a beginner **game developer** passionate about creating simple 2D games using **MonoGame** and C#.  
-I enjoy experimenting with gameplay mechanics, graphics, and learning new technologies while making small projects.  
+I enjoy experimenting with gameplay mechanics, graphics while making small projects.  
   
 **My Main focus:** Game development with C# and [MonoGame](https://www.monogame.net/)  
   
