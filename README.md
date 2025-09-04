@@ -22,9 +22,6 @@ I know basics of **JavaScript, HTML, and CSS** and apart of C# i know some C++ b
 - learn more about game architecture
 - gaining new skills
 
-## Mail
-mariamajchrzak2009@gmail.com
-
  ## Screenshots
 
 Here are some screenshots from my projects:  
