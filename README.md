@@ -25,6 +25,11 @@ I know basics of **JavaScript, HTML, and CSS** and apart of C# i know some C++ b
 ## Mail
 mariamajchrzak2009@gmail.com
 
+ ## Screenshots
+
+Here are some screenshots from my projects:  
+[![leapIntheShadow](./leapInTheShadow.gif)](https://github.com/MariaMajchrzak/LeapInTheShadow)
+
 ##
 [![GitHub Streak](https://github-readme-streak-stats-six-wheat.vercel.app?user=MariaMajchrzak&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMajchrzak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
