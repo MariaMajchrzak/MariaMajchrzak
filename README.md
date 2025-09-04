@@ -24,7 +24,7 @@ I know basics of **JavaScript, HTML, and CSS** and apart of C# i know some C++ b
   
 
 ##
-[![GitHub Streak](https://github-readme-streak-stats-six-wheat.vercel.app?user=maniulka209&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniulka209&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-six-wheat.vercel.app?user=MariaMajchrzak&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMajchrzak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## Current Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maniulka209&repo=TurnOnTheLight&theme=radical)](https://github.com/maniulka209/TurnOnTheLight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaMajchrzak&repo=TurnOnTheLight&theme=radical)](https://github.com/maniulka209/TurnOnTheLight)
