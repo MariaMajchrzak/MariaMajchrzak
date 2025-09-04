@@ -22,9 +22,7 @@ I know basics of **JavaScript, HTML, and CSS** and apart of C# i know some C++ b
 - learn more about game architecture
 - make some games
   
- ## Screenshots
-Here are some screenshots from my projects:  
-[![leapIntheShadow](./leapInTheShadow.gif)](https://github.com/maniulka209/LeapInTheShadow)
+
 ##
 [![GitHub Streak](https://github-readme-streak-stats-six-wheat.vercel.app?user=maniulka209&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maniulka209&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
