@@ -20,8 +20,10 @@ I know basics of **JavaScript, HTML, and CSS** and apart of C# i know some C++ b
 ## My goals
 - improving my game developer skill
 - learn more about game architecture
-- make some games
-  
+- gaining new skills
+
+## mail
+mariamajchrzak2009@gmail.com
 
 ##
 [![GitHub Streak](https://github-readme-streak-stats-six-wheat.vercel.app?user=MariaMajchrzak&theme=radical)](https://git.io/streak-stats)
