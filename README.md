@@ -7,6 +7,7 @@ I enjoy experimenting with gameplay mechanics and graphics while making small pr
 **My main focus:** Game development with C# [MonoGame](https://www.monogame.net/), and frontend using mostly React.
 
 ## Skills
+I know the basics of **React, JavaScript, HTML, and CSS**, and apart from **C#**, I know some C++ basics.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
@@ -18,8 +19,16 @@ I enjoy experimenting with gameplay mechanics and graphics while making small pr
 
 ## Goals 🎯
 - 🕹️ Improve my **game development skills**
-- 🏗️ Learn more about **game architecture**
+- 🏗️ Learn more about **game architecture and frontend**
 - ⚛️ Learn **Next.js** and improve my React knowledge
+
+## Project
+[leapInTheShadow](https://github.com/MariaMajchrzak/LeapInTheShadow) - simple c# desktop game made using MonoGame
+
+[Depo](https://github.com/MariaMajchrzak/Depo) - project made for [Open Source Hackfest](https://open-source-hackfest-26947.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio&_gl=1*sc9i25*_ga*MTE2OTI2ODcyLjE3NjA0NjIwNDY.*_ga_0YHJK3Y10M*czE3NjMzMjQ0NzYkbzEkZzAkdDE3NjMzMjQ0NzYkajYwJGwwJGgw) (React-Frontend) 
+
+[QuickCV](https://github.com/MariaMajchrzak/QuickCV) - project in progress, desktop aplication for creating cv
+
 
 ## Screenshots 🎮
 Here are some screenshots from my projects:  
@@ -30,4 +39,4 @@ Here are some screenshots from my projects:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMajchrzak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Project 🚀
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaMajchrzak&repo=QuickCV&theme=radical)](https://github.com/maniulka209/TurnOnTheLight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaMajchrzak&repo=QuickCV&theme=radical)](https://github.com/MariaMajchrzak/QuickCV)
