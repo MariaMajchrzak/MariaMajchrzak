@@ -26,12 +26,7 @@ I know the basics of **React, JavaScript, HTML, and CSS**, and apart from **C#**
 ## Project
 [leapInTheShadow](https://github.com/MariaMajchrzak/LeapInTheShadow) - simple c# desktop game made using MonoGame
 
-[Depo](https://github.com/MariaMajchrzak/Depo) - project made for [Open Source Hackfest](https://open-source-hackfest-26947.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio&_gl=1*sc9i25*_ga*MTE2OTI2ODcyLjE3NjA0NjIwNDY.*_ga_0YHJK3Y10M*czE3NjMzMjQ0NzYkbzEkZzAkdDE3NjMzMjQ0NzYkajYwJGwwJGgw) (React-Frontend) 
-
-
-## Stats 📊
-[![GitHub Streak](https://github-readme-streak-stats-six-wheat.vercel.app?user=MariaMajchrzak&theme=radical)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMajchrzak&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[Depo](https://github.com/MariaMajchrzak/Depo) - project made for [Open Source Hackfest](https://open-source-hackfest-26947.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio&_gl=1*sc9i25*_ga*MTE2OTI2ODcyLjE3NjA0NjIwNDY.*_ga_0YHJK3Y10M*czE3NjMzMjQ0NzYkbzEkZzAkdDE3NjMzMjQ0NzYkajYwJGwwJGgw) (React-Frontend)
 
 ## Current Project 🚀
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaMajchrzak&repo=TurnOnTheLight&theme=radical)](https://github.com/MariaMajchrzak/TurnOnTheLight)
