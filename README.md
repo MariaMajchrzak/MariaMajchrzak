@@ -17,7 +17,7 @@ I know the basics of **React, JavaScript, HTML, and CSS**, and apart from **C#**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" />
 </p>
 
-## Goals 🎯
+## Goals 
 -  Improve my **game development skills**
 -  Learn more about **game architecture**
 -  Learn **Next.js** and improve my React knowledge
@@ -28,5 +28,5 @@ I know the basics of **React, JavaScript, HTML, and CSS**, and apart from **C#**
 
 [Depo](https://github.com/MariaMajchrzak/Depo) - project made for [Open Source Hackfest](https://open-source-hackfest-26947.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio&_gl=1*sc9i25*_ga*MTE2OTI2ODcyLjE3NjA0NjIwNDY.*_ga_0YHJK3Y10M*czE3NjMzMjQ0NzYkbzEkZzAkdDE3NjMzMjQ0NzYkajYwJGwwJGgw) (React-Frontend)
 
-## Current Project 🚀
+## Current Project 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariaMajchrzak&repo=TurnOnTheLight&theme=radical)](https://github.com/MariaMajchrzak/TurnOnTheLight)
